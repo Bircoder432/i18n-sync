@@ -1,7 +1,7 @@
 use clap::{Arg, Command};
 
 pub fn build_cli() -> Command {
-    Command::new("i18n-gen")
+    Command::new("i18n-sync")
         .version("0.1.0")
         .about("Utility for generating and managing translation keys for rust_i18n")
         .arg(
