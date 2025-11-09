@@ -3,14 +3,14 @@ name = "i18n-sync"
 version = "0.1.0"
 edition = "2024"
 description = "A utility for syncing translation keys for rust_i18n"
-authors = ["Your Name <your.email@example.com>"]
-license = "MIT OR Apache-2.0"
+authors = ["Vadim <rofeds12345@gmail.com>"]
+license = "MIT"
 readme = "README.md"
 keywords = ["i18n", "localization", "translation", "rust_i18n", "sync"]
 categories = ["command-line-utilities", "localization"]
-repository = "https://github.com/yourusername/i18n-sync"
+repository = "https://github.com/bircoder432/i18n-sync"
 documentation = "https://docs.rs/i18n-sync"
-homepage = "https://github.com/yourusername/i18n-sync"
+homepage = "https://github.com/bircoder432/i18n-sync"
 
 [[bin]]
 name = "i18n-sync"
