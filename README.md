@@ -1,5 +1,8 @@
 # i18n-sync
 
+[![Crates.io](https://img.shields.io/crates/v/i18n-sync.svg)](https://crates.io/crates/i18n-sync)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A command-line utility for automatically syncing translation keys in rust_i18n projects.
 
 ## What it does
